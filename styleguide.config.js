@@ -1,2 +1,4 @@
-const { config } = require('@yeutech-lab/rollup-umd-documentation/lib/styleguide.config');
-module.exports = config;
+const { createConfig } = require('@rollup-umd/documentation');
+module.exports = createConfig(undefined, {
+  loader: 'yeutech',
+});
