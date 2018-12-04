@@ -5,10 +5,10 @@ import theme from '../theme';
 import badgeYeutech from '../static/badge-yeutech';
 import LogoYeutech from '../static/logo-yeutech.svg';
 
-export default class LayoutRenderer extends Component {
+export default class LayoutRenderer extends Component { // eslint-disable-line react/prefer-stateless-function
   static defaultProps = {
-    theme: theme,
-    ga: process.env.GA_ID_YEUTECH_DOCUMENTATION || process.env.GA_ID,
+    theme,
+    ga: process.env.GA_ID,
     logoMenu: {
       logo: <LogoYeutech />,
       href: null,

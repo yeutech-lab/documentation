@@ -1,4 +1,2 @@
 const { createConfig } = require('@rollup-umd/documentation');
-module.exports = createConfig(undefined, {
-  loader: 'yeutech',
-});
+module.exports = createConfig();

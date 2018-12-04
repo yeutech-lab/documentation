@@ -11,26 +11,8 @@
       "content": "docs/introduction.md"
     },
     {
-      "name": "Prerequisite",
-      "content": "docs/prerequisite.md"
-    },
-    {
-      "name": "Getting started",
-      "content": "docs/getting-started.md",
-      "sections": [
-        {
-          "name": "Installation",
-          "content": "docs/installation.md"
-        },
-        {
-          "name": "Configuration",
-          "content": "docs/configuration.md"
-        }
-      ]
-    },
-    {
-      "name": "FAQ",
-      "content": "docs/faq.md"
+      "name": "Installation",
+      "content": "docs/installation.md"
     },
     {
       "name": "Contribute",
@@ -54,5 +36,9 @@
       "name": "Code of conduct",
       "content": "CODE_OF_CONDUCT.md"
     }
-  ]
+  ],
+  "ribbon": {
+    "url": "https://module.kopaxgroup.com/yeutech/documentation",
+    "text": "Fork us on GitLab"
+  }
 }

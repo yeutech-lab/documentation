@@ -1,9 +1,7 @@
+import { toMakeTheme } from 'bootstrap-styled/lib/utils';
 import { makeTheme as makeThemeDocumentation } from '@rollup-umd/documentation/lib/theme';
 
-/**
- * generate the yeutech theme
- */
-const theme = makeThemeDocumentation({
+export const makeTheme = toMakeTheme(makeThemeDocumentation({
   _name: 'yeutech-documentation',
   '$btn-primary-color': '#B31255',
   '$btn-primary-bg': '#1C00ff00',
@@ -34,10 +32,6 @@ const theme = makeThemeDocumentation({
       md: '260px',
     },
   },
-});
+}));
 
-/** @public Bootstrap Styled makeTheme */
-export const makeTheme = toMakeTheme(theme);
-
-/** @public yeutech theme */
-export default theme;
+export default makeTheme();
