@@ -38,7 +38,7 @@
     }
   ],
   "ribbon": {
-    "url": "https://module.kopaxgroup.com/yeutech/documentation",
-    "text": "Fork us on GitLab"
+    "url": "https://github.com/yeutech-lab/documentation",
+    "text": "Fork us on GitHub"
   }
 }
