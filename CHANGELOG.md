@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/yeutech-lab/documentation/compare/v1.0.2...v1.0.3) (2018-12-05)
+
+
+### Bug Fixes
+
+* **release:** GitHub release https://github.com/yeutech-lab/documentation ([b4b4e42](https://github.com/yeutech-lab/documentation/commit/b4b4e42))
+
 ## [1.0.2](https://module.kopaxgroup.com/yeutech/documentation/compare/v1.0.1...v1.0.2) (2018-12-05)
 
 
