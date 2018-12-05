@@ -318,22 +318,5 @@
   },
   "declinationId": "bs",
   "contributors": [],
-  "private": false,
-  "transitive": {
-    "name": "documentation",
-    "scope": "yeutech-lab",
-    "scopedName": "@yeutech-lab/documentation",
-    "homepage": "https://yeutech-lab.github.io/documentation",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/yeutech-lab/documentation.git"
-    },
-    "bugs": {
-      "url": "https://github.com/yeutech-lab/documentation/issues"
-    },
-    "publishConfig": {
-      "access": "public",
-      "registry": "https://registry.npmjs.org"
-    }
-  }
+  "private": false
 }
