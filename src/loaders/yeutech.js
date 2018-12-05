@@ -34,31 +34,31 @@ body {
   
 @-webkit-keyframes rotation {
   0% {
-            -webkit-transform: rotate(0deg) scale(1.5);
-                    transform: rotate(0deg) scale(1.5);
+            -webkit-transform: rotate(0deg) scale(1.1);
+                    transform: rotate(0deg) scale(1.1);
   }
   50% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1)
+    -webkit-transform: rotate(180deg) scale(0.5);
+            transform: rotate(180deg) scale(0.5)
   }
   100% {
-            -webkit-transform: rotate(359deg) scale(1.5);
-                    transform: rotate(359deg) scale(1.5);
+            -webkit-transform: rotate(359deg) scale(1.1);
+                    transform: rotate(359deg) scale(1.1);
   }
 }
   
 @keyframes rotation {
   0% {
-            -webkit-transform: rotate(0deg) scale(1.5);
-                    transform: rotate(0deg) scale(1.5);
+            -webkit-transform: rotate(0deg) scale(1.1);
+                    transform: rotate(0deg) scale(1.1);
   }
   50% {
-    -webkit-transform: rotate(180deg) scale(1);
-            transform: rotate(180deg) scale(1)
+    -webkit-transform: rotate(180deg) scale(0.5);
+            transform: rotate(180deg) scale(0.5)
   }
   100% {
-            -webkit-transform: rotate(359deg) scale(1.5);
-                    transform: rotate(359deg) scale(1.5);
+            -webkit-transform: rotate(359deg) scale(1.1);
+                    transform: rotate(359deg) scale(1.1);
   }
 }
 </style>
