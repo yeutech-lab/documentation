@@ -191,6 +191,7 @@
     "babel-merge": "^2.0.1",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-dynamic-import-node": "^2.2.0",
+    "babel-plugin-inline-react-svg": "^1.0.1",
     "babel-plugin-react-transform": "^3.0.0",
     "babel-plugin-styled-components": "^1.9.1-0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.13",
