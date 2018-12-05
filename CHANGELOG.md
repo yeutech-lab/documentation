@@ -1,3 +1,10 @@
+## [1.0.2](https://module.kopaxgroup.com/yeutech/documentation/compare/v1.0.1...v1.0.2) (2018-12-05)
+
+
+### Bug Fixes
+
+* **publish:** publish to github ([597afb0](https://module.kopaxgroup.com/yeutech/documentation/commit/597afb0))
+
 ## [1.0.1](https://module.kopaxgroup.com/yeutech/documentation/compare/v1.0.0...v1.0.1) (2018-12-05)
 
 
