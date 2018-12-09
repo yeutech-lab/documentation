@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/yeutech-lab/documentation/compare/v1.0.3...v1.0.4) (2018-12-09)
+
+
+### Bug Fixes
+
+* **dependencies:** Upgrade [@rollup-umd](https://github.com/rollup-umd)/documentation ([99f2a6c](https://github.com/yeutech-lab/documentation/commit/99f2a6c))
+
 ## [1.0.3](https://github.com/yeutech-lab/documentation/compare/v1.0.2...v1.0.3) (2018-12-05)
 
 
