@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/yeutech-lab/documentation/compare/v1.0.5...v1.0.6) (2018-12-09)
+
+
+### Bug Fixes
+
+* **layout:** fixed defaultProps in layout to allow extend ([75bd335](https://github.com/yeutech-lab/documentation/commit/75bd335))
+
 ## [1.0.5](https://github.com/yeutech-lab/documentation/compare/v1.0.4...v1.0.5) (2018-12-09)
 
 
