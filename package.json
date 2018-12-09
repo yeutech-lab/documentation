@@ -212,7 +212,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0",
-    "@rollup-umd/documentation": "^1.0.21",
+    "@rollup-umd/documentation": "^1.0.22",
     "bootstrap-styled": "^2.2.2",
     "css-loader": "^1.0.1",
     "font-awesome": "^4.7.0",
