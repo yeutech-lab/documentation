@@ -5,21 +5,23 @@ import theme from '../theme';
 import badgeYeutech from '../static/badge-yeutech';
 import LogoYeutech from '../static/logo-yeutech.svg';
 
+const defaultProps = {
+  theme,
+  ga: process.env.GA_ID,
+  logoMenu: {
+    logo: <LogoYeutech />,
+    href: null,
+    alt: 'Yeutech Logo',
+  },
+  logoFooter: {
+    logo: badgeYeutech,
+    href: 'https://www.yeutech.vn',
+    alt: 'Yeutech Logo',
+  },
+};
+
 export default class LayoutRenderer extends Component { // eslint-disable-line react/prefer-stateless-function
-  static defaultProps = {
-    theme,
-    ga: process.env.GA_ID,
-    logoMenu: {
-      logo: <LogoYeutech />,
-      href: null,
-      alt: 'Yeutech Company Limited logo',
-    },
-    logoFooter: {
-      logo: badgeYeutech,
-      href: null,
-      alt: 'Yeutech Company Limited logo',
-    },
-  };
+  static defaultProps = defaultProps;
 
   static propTypes = {
     /** Our edited theme */
@@ -44,9 +46,19 @@ export default class LayoutRenderer extends Component { // eslint-disable-line r
   };
 
   render() {
-    const { ...rest } = this.props;
+    const { logoMenu, logoFooter, ...rest } = this.props;
     return (
-      <StyleGuideRenderer {...rest} />
+      <StyleGuideRenderer
+        logoMenu={{
+          ...defaultProps.logoMenu,
+          ...logoMenu,
+        }}
+        logoFooter={{
+          ...defaultProps.logoFooter,
+          ...logoFooter,
+        }}
+        {...rest}
+      />
     );
   }
 }
