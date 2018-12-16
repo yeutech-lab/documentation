@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/yeutech-lab/documentation/compare/v1.0.6...v1.0.7) (2018-12-16)
+
+
+### Performance Improvements
+
+* **greenkeeper:** added greenkeeper ([7ad38b1](https://github.com/yeutech-lab/documentation/commit/7ad38b1))
+
 ## [1.0.6](https://github.com/yeutech-lab/documentation/compare/v1.0.5...v1.0.6) (2018-12-09)
 
 
