@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/yeutech-lab/documentation/compare/v1.0.7...v1.0.8) (2018-12-16)
+
+
+### Bug Fixes
+
+* **greenkeeper:** do not execute sonar when greenkeeper test ([7595355](https://github.com/yeutech-lab/documentation/commit/7595355))
+
 ## [1.0.7](https://github.com/yeutech-lab/documentation/compare/v1.0.6...v1.0.7) (2018-12-16)
 
 
