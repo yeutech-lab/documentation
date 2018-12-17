@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/yeutech-lab/documentation/compare/v1.0.8...v1.0.9) (2018-12-17)
+
+
+### Bug Fixes
+
+* **dependencies:** Restore dependencies react-styleguidist 8.0.6 ([73df81a](https://github.com/yeutech-lab/documentation/commit/73df81a))
+
 ## [1.0.8](https://github.com/yeutech-lab/documentation/compare/v1.0.7...v1.0.8) (2018-12-16)
 
 

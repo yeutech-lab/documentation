@@ -1,6 +1,6 @@
 {
   "name": "@yeutech-lab/documentation",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Yeutech Layouts and @rollup-umd/documentation configuration extension",
   "main": "lib/index.js",
   "homepage": "https://yeutech-lab.github.io/documentation",
