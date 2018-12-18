@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/yeutech-lab/documentation/compare/v1.0.9...v1.0.10) (2018-12-18)
+
+
+### Bug Fixes
+
+* **options:** Added theme color and and restore QuickSand font family ([6fe9f08](https://github.com/yeutech-lab/documentation/commit/6fe9f08))
+
 ## [1.0.9](https://github.com/yeutech-lab/documentation/compare/v1.0.8...v1.0.9) (2018-12-17)
 
 
