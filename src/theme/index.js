@@ -7,7 +7,7 @@ export const makeTheme = toMakeTheme(makeThemeDocumentation({
   '$btn-primary-bg': '#1C00ff00',
   '$btn-primary-border': '#1C00ff00',
   '$btn-box-shadow': '#1C00ff00 !important',
-  '$headings-font-family': '-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"',
+  '$headings-font-family': 'Quicksand, sans-serif',
   '$headings-font-weight': 'normal',
   '$font-size-h1': '36px',
   '$font-size-h2': '30px',
