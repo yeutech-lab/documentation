@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/yeutech-lab/documentation/compare/v1.0.11...v1.0.12) (2019-01-12)
+
+
+### Bug Fixes
+
+* **layout:** fixed logo footer ([68512a7](https://github.com/yeutech-lab/documentation/commit/68512a7))
+
 ## [1.0.11](https://github.com/yeutech-lab/documentation/compare/v1.0.10...v1.0.11) (2018-12-22)
 
 
