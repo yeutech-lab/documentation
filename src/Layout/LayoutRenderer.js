@@ -14,7 +14,7 @@ const defaultProps = {
     alt: 'Yeutech Logo',
   },
   logoFooter: {
-    logo: badgeYeutech,
+    logo: `data:image/png;base64, ${badgeYeutech}`,
     href: 'https://www.yeutech.vn',
     alt: 'Yeutech Logo',
   },
