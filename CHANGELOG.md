@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/yeutech-lab/documentation/compare/v1.0.13...v1.0.14) (2019-02-02)
+
+
+### Bug Fixes
+
+* **dependencies:** upgrade all dependencies ([25441bc](https://github.com/yeutech-lab/documentation/commit/25441bc))
+
 ## [1.0.13](https://github.com/yeutech-lab/documentation/compare/v1.0.12...v1.0.13) (2019-01-31)
 
 
