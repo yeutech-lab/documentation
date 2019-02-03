@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/yeutech-lab/documentation/compare/v1.0.16...v1.0.17) (2019-02-03)
+
+
+### Bug Fixes
+
+* **options:** options was in wrong directory ([962542a](https://github.com/yeutech-lab/documentation/commit/962542a))
+
 ## [1.0.16](https://github.com/yeutech-lab/documentation/compare/v1.0.15...v1.0.16) (2019-02-03)
 
 
