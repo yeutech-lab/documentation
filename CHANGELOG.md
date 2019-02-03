@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/yeutech-lab/documentation/compare/v1.0.14...v1.0.15) (2019-02-03)
+
+
+### Bug Fixes
+
+* **dependencies:** upgrade dependencies ([9c370cc](https://github.com/yeutech-lab/documentation/commit/9c370cc))
+
 ## [1.0.14](https://github.com/yeutech-lab/documentation/compare/v1.0.13...v1.0.14) (2019-02-02)
 
 
