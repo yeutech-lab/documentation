@@ -196,7 +196,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.0",
     "eslint-plugin-react": "^7.12.4",
     "exports-loader": "^0.7.0",
-    "istanbul-api": "2.0.6",
+    "istanbul-api": "2.1.0",
     "istanbul-reports": "2.0.1",
     "jest-cli": "^24.0.0",
     "jest-sonar-reporter": "^2.0.0",
