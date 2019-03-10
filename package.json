@@ -206,7 +206,7 @@
     "react-styleguidist": "^8.0.6",
     "react-test-renderer": "^16.7.0",
     "semantic-release": "^15.13.3",
-    "terser": "3.14.1",
+    "terser": "3.17.0",
     "toctoc": "^0.3.2",
     "webpack": "^4.29.0"
   },
