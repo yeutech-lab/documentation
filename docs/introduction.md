@@ -1,3 +1,3 @@
 [![Build Status](https://travis-ci.org/yeutech-lab/documentation.svg?branch=master)](https://travis-ci.org/yeutech-lab/documentation) [![npm Version](https://img.shields.io/npm/v/@yeutech-lab/documentation.svg?style=flat)](https://www.npmjs.com/package/@yeutech-lab/documentation) [![License](https://img.shields.io/npm/l/@yeutech-lab/documentation.svg?style=flat)](https://www.npmjs.com/package/@yeutech-lab/documentation) [![npm Version](https://img.shields.io/node/v/@yeutech-lab/documentation.svg?style=flat)](https://www.npmjs.com/package/@yeutech-lab/documentation) [![Module formats](https://img.shields.io/badge/module%20formats-umd%2C%20cjs%2C%20esm-green.svg?style=flat)](https://www.npmjs.com/package/@yeutech-lab/documentation)
 
-Yeutech Layouts and @rollup-umd/documentation configuration extension
+$PACKAGE_DESCRIPTION
