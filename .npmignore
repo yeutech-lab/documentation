@@ -30,3 +30,5 @@ rollup.config.js
 /*.tgz
 /lib/**/*.md
 /internals
+**/tests/*.test.js
+.ncurc.js
