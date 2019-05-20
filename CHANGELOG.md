@@ -1,3 +1,23 @@
+## [2.0.1](https://github.com/yeutech-lab/documentation/compare/v2.0.0...v2.0.1) (2019-04-01)
+
+
+### Bug Fixes
+
+* **dependencies:** upgrade all dependencies ([13f7075](https://github.com/yeutech-lab/documentation/commit/13f7075))
+
+# [2.0.0](https://github.com/yeutech-lab/documentation/compare/v1.0.17...v2.0.0) (2019-03-11)
+
+
+### Bug Fixes
+
+* **react-styleguidist:** Upgrade react-styleguidist to v9 which include a breaking change ([8dae0e5](https://github.com/yeutech-lab/documentation/commit/8dae0e5))
+
+
+### BREAKING CHANGES
+
+* **react-styleguidist:** react-styleguidist v9 introduce per demo scope which can break existing
+documentation
+
 ## [1.0.17](https://github.com/yeutech-lab/documentation/compare/v1.0.16...v1.0.17) (2019-02-03)
 
 
