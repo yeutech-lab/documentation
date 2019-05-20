@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/yeutech-lab/documentation/compare/v2.0.1...v2.0.2) (2019-05-20)
+
+
+### Bug Fixes
+
+* **dependencies:** upgrade all dependencies ([5fb3c6f](https://github.com/yeutech-lab/documentation/commit/5fb3c6f))
+
 ## [2.0.1](https://github.com/yeutech-lab/documentation/compare/v2.0.0...v2.0.1) (2019-04-01)
 
 
