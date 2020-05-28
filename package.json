@@ -25,13 +25,14 @@
     "test:clean": "rimraf ./coverage",
     "test:watch": "npm run test -- --watch",
     "lint": "eslint src",
-    "prepublish": "npm run build",
+    "prepublish": "npm run snyk-protect && npm run build",
     "lint-staged": "lint-staged",
     "jsdoc-documentation": "jsdoc-documentation",
     "jsdoc": "jsdoc-documentation --file",
     "prestyleguide": "npm run jsdoc",
     "styleguide": "styleguidist server",
-    "styleguide:build": "styleguidist build"
+    "styleguide:build": "styleguidist build",
+    "snyk-protect": "snyk protect"
   },
   "repository": {
     "type": "git",
@@ -215,7 +216,8 @@
     "@rollup-umd/documentation": "^2.0.4",
     "bootstrap-styled": "^2.4.13",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6"
+    "react": "^16.8.6",
+    "snyk": "^1.332.0"
   },
   "peerDependencies": {},
   "publishConfig": {
@@ -343,5 +345,6 @@
     "indent": 2
   },
   "declinationId": "bs",
-  "contributors": []
+  "contributors": [],
+  "snyk": true
 }
